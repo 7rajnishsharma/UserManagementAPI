@@ -15,6 +15,7 @@ const newUser = async (req, res) => {
       name,
       email,
       password: hashedPassword,
+      role,
     });
     newUser.save();
     console.log("Admin Added New User");
