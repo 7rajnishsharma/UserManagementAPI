@@ -209,6 +209,20 @@ The following routes are accessible by regular users:
   ```
 
 ---
+## Visual Representation Dashboard
+
+1. **User Interface**:
+   - Demonstrates user registration, login, profile picture upload, and logout.
+
+
+   ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/91198044-96d1-4d56-bc77-c62b76a28c23)
+
+
+1. **Admin Interface**:
+   - Demonstrates admin login, searching users, updating user details, adding new users, and logout.
+     
+   ![admin](https://github.com/user-attachments/assets/e352df3e-60b4-4378-8c59-c92a50cfc03a)
+
 
 ## API Testing - Visual Representation
 
