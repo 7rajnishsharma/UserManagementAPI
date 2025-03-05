@@ -20,7 +20,6 @@ A full-stack User Management System that provides a seamless interface for user 
 ### Technical Features
 - **API**: CRUD operations for users via RESTful API.
 - **Authentication**: JWT-based authentication for secure sessions.
-- **State Management**: Managed with Redux Toolkit for consistent app behavior.
 - **Error Handling**: Comprehensive error handling across the backend.
 
 
