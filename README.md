@@ -1,6 +1,6 @@
 # User Management System
 
-A full-stack User Management System that provides a seamless interface for user registration, profile updates, and administrative controls. Built with Node.js, Express, MongoDB, and React, this application includes robust authentication, CRUD operations, and an admin dashboard for user management.
+A full-stack User Management System that provides a seamless interface for user registration, profile updates, and administrative controls. Built with Node.js, Express, and MongoDB this application includes robust authentication, CRUD operations, and an admin dashboard for user management.
 
 ---
 
